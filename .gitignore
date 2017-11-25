@@ -6,3 +6,4 @@ log
 gen
 cabal.sandbox.config
 tmp
+elm.js

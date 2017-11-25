@@ -7,3 +7,5 @@ gen
 cabal.sandbox.config
 tmp
 elm.js
+# elm-repl generated files
+repl-temp-*

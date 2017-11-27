@@ -141,7 +141,7 @@ If you follow that link you will see a file that I added to the IPFS network.
 
 ### More ipfs stuff
 
-There are a ton of things you can do with IPFS. You can see more on the [refernce page.](https://ipfs.io/docs/commands)  
+There are a ton of things you can do with IPFS. You can see more on the [refernce page.](https://ipfs.io/docs/commands)
 
 Now that we know a bit about how to work with IPFS we can start to build an application to take advantage of it. 
 
@@ -268,3 +268,8 @@ And you can see it in action here:
 
 # Thoughts
 
+I love silvrbak.com but using IPFS to host my blog would be a pretty cool way to keep control over my content and share it. I think I will try to put my blog out on IPFS and silvrback and steemit.
+
+For more examples of how to use IPFS see [this github](https://github.com/ipfs/js-ipfs/tree/master/examples). There is a lot we can do with IPFS in the browser using the Javascript libraries.
+
+To see a more indepth example of using Elm see the code in my [github repo](https://github.com/MarneeDear/learning-elm) under `json-remote-data`. My husband contributed that code and you can see it in action on IPFS [here](https://ipfs.io/ipfs/QmR2FQ9op5FZnrZP4uwGAiK8fVMU37bQ16U19L365wqNnG).

@@ -11,6 +11,8 @@ The future of the internet is the distributed, decentralized web. This is a plac
 
 # What is IPFS and why use it?
 
+![Silvrback blog image ](https://silvrback.s3.amazonaws.com/uploads/26d78bfc-5cc0-46c8-8c9f-6866ac99d6dd/planet-network-1024x698.jpg)
+
 IPFS stands for Interplanetary File System. Cool name, right? Basically it is a content addressable file system that you can access using the IPFS protocol or HTTPS over the internet. There is a lot to it, but you can see a summary of the white paper and specification on [github](https://github.com/ipfs/ipfs#quick-summary).
 
 IPFS is also a network of users who voluntarily setup nodes that will forward files to clients who request them from the network, and can even store the files if they want to.
@@ -139,7 +141,7 @@ Or on the internet:
 
 If you follow that link you will see a file that I added to the IPFS network.
 
-### More ipfs stuff
+### More IPFS stuff
 
 There are a ton of things you can do with IPFS. You can see more on the [refernce page.](https://ipfs.io/docs/commands)
 
@@ -268,8 +270,8 @@ And you can see it in action here:
 
 # Thoughts
 
-I love silvrbak.com but using IPFS to host my blog would be a pretty cool way to keep control over my content and share it. I think I will try to put my blog out on IPFS and silvrback and steemit.
+I love silvrbak.com but using IPFS to host my blog would be a pretty cool way to keep control over my content and share it. I think I will try to put my blog out on IPFS, and Silvrback, and Steemit.
 
-For more examples of how to use IPFS see [this github](https://github.com/ipfs/js-ipfs/tree/master/examples). There is a lot we can do with IPFS in the browser using the Javascript libraries.
+For more examples of how to use IPFS see [this Github](https://github.com/ipfs/js-ipfs/tree/master/examples). There is a lot we can do with IPFS in the browser using the Javascript libraries.
 
 To see a more indepth example of using Elm see the code in my [github repo](https://github.com/MarneeDear/learning-elm) under `json-remote-data`. My husband contributed that code and you can see it in action on IPFS [here](https://ipfs.io/ipfs/QmR2FQ9op5FZnrZP4uwGAiK8fVMU37bQ16U19L365wqNnG).

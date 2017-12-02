@@ -42,8 +42,11 @@ update msg model =
               --, RemoteData.Http.get "/api/cats/1-full.json" HandleCatResponse catPipelineDecoder
               --, RemoteData.Http.get "/api/cats/2-null-color.json" HandleCatResponse catPipelineDecoder
               --, RemoteData.Http.get "/api/cats/3-no-age.json" HandleCatResponse catPipelineDecoder
-              --, RemoteData.Http.get "/api/cats/4-extra-list-field.json" HandleCatResponse catPipelineDecoder
-            , RemoteData.Http.get "/api/cats/99-does-not-exist.json" HandleCatResponse catPipelineDecoder
+            --   , RemoteData.Http.get "/api/cats/4-extra-list-field.json" HandleCatResponse catPipelineDecoder
+            -- this is the IPFS file address (hash)
+              , RemoteData.Http.get "QmRQyUHj9ZwaEFqKzX6sQF8BXa8Xt1hKimRJAma66BxiKd#4-extra-list-field.json" HandleCatResponse catPipelineDecoder
+            -- , RemoteData.Http.get "/api/cats/99-does-not-exist.json" HandleCatResponse catPipelineDecoder
+            --added QmRQyUHj9ZwaEFqKzX6sQF8BXa8Xt1hKimRJAma66BxiKd 4-extra-list-field.json
             )
 
 

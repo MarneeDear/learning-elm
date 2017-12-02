@@ -143,7 +143,7 @@ If you follow that link you will see a file that I added to the IPFS network.
 
 ### More IPFS stuff
 
-There are a ton of things you can do with IPFS. You can see more on the [refernce page.](https://ipfs.io/docs/commands)
+There are a ton of things you can do with IPFS. You can see more on the [reference page.](https://ipfs.io/docs/commands)
 
 Now that we know a bit about how to work with IPFS we can start to build an application to take advantage of it. 
 
